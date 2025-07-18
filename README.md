@@ -11,14 +11,13 @@ Tailwind CSS (included via CDN)
 
 
 # **📁 Project Structure**
-pgsql
-Copy
-Edit
+```
 ├── index.html
 ├── assets/
 │   ├── images/
 │   └── icons/
 └── README.md
+```
 
 
 # **📱 Responsiveness**
